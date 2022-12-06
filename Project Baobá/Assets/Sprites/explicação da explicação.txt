@@ -1,0 +1,6 @@
+azul:wall slide
+amarelo: parry
+vermelho: slide
+verde: jump animation
+roxo: walking animation
+preto: idle animation

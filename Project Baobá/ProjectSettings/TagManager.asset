@@ -3,17 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Parry
+  - Vento
+  - Seiva
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - DeathMap
   - Water
   - UI
-  - 
-  - 
-  - 
+  - "Ch\xE3o"
+  - Parry
+  - Player
   - 
   - 
   - 
@@ -40,4 +43,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2820973001
+    locked: 0
+  - name: TransitionPlatforms
+    uniqueID: 4201176601
+    locked: 0
+  - name: Platforms
+    uniqueID: 3569013115
+    locked: 0
+  - name: Decoration
+    uniqueID: 379898007
+    locked: 0
+  - name: Player
+    uniqueID: 4006841865
+    locked: 0
+  - name: Borders
+    uniqueID: 3750113205
     locked: 0
